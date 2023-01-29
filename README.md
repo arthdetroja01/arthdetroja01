@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="banner" src="assets/header.png" />
+  <img alt="banner" src="assets/header.png" height="430px" width="700px"/>
   
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
 </h1>
@@ -18,10 +18,9 @@
 
 <img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
 
--   🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/) .
 -   🌱 I’m currently learning stuff to be a Django Developer!
 -   💬 AMA, I am happy to help!
--   📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/uOjPBy2V">here</a>.
+-   📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/SBYRImKk">here</a>.
 -   😄 Pronouns: [He/Him](https://pronoun.is/she)
 -   ⚡ Fun fact: I like **Sherlock, sleeping, coding, listening to music, eating and blah blah blah**. 
 
@@ -29,7 +28,7 @@
 
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
-  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=arthDetroja01&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=arthdetroja01&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
 </p>
 
 <hr>
