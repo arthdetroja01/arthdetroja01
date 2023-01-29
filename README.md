@@ -16,12 +16,13 @@
   
 > <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-<img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
+<img align="right" height="180px" width="280px" alt="comder" src="assets/gifs/coder.webp" />
 
 -   🌱 I’m currently learning stuff to be a Django Developer!
 -   💬 AMA, I am happy to help!
 -   📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/SBYRImKk">here</a>.
 -   😄 Pronouns: [He/Him](https://pronoun.is/she)
+-   🔐 Cyber Security enthusiast
 -   ⚡ Fun fact: I like **Sherlock, sleeping, coding, listening to music, eating and blah blah blah**. 
 
 <hr>
